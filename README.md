@@ -3,7 +3,7 @@
     - sub item  
 *MY first line*
 we use the `<h1>`
-```cmd
+```command
   git clone <URL>
 ```
 ```javascript
